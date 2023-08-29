@@ -15,3 +15,8 @@ Trading volume data provides an additional dimension for understanding Microsoft
 The dataset covers a span of several decades, enabling users to analyze long-term trends, market cycles, and historical patterns that have shaped Microsoft's stock performance. It can be used by researchers, investors, and analysts to conduct quantitative and qualitative studies, perform technical analyses, and gain insights into the dynamics of the technology industry and the broader market.
 
 Please note that this dataset serves as a valuable historical resource and should be utilized alongside other relevant financial information and analysis to make informed decisions. The dataset captures Microsoft's stock performance up until 2023, ensuring that users have access to the latest available information
+# CONCLUSION:
+*According to the time series analysis of data for the particular dataset found that "Open", "High", "Low", "Close" are the columns in which trends in increasing manner.But in the year 2020-2021 the stocks are goes in decreasing manner
+
+*According the volume chart for particular this dataset year 2016-17 gives little bit off more profit to investement in a stocks.
+After 2017 to up coming year stocks will be fluctuated
